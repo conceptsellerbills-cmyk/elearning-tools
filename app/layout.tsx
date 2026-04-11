@@ -1,11 +1,15 @@
 import type { Metadata } from "next";
 import "./globals.css";
 
-const SITE_NAME = "elearning-tools";
+const SITE_NAME = "eLearning Tools";
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://www.elearning-tools.com"),
   title: { default: SITE_NAME, template: `%s | ${SITE_NAME}` },
   description: "Expert guides, reviews and tips.",
+  alternates: {
+    canonical: "/",
+  },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
