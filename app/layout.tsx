@@ -46,18 +46,26 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
                 <svg width="12" height="12" viewBox="0 0 12 12" fill="currentColor"><path d="M2 4l4 4 4-4"/></svg>
               </button>
               <div className="cat-dropdown" role="menu">
-              <a href="/category/course-platforms">🎓 Online Course Platforms</a>
-              <a href="/category/coding-bootcamps">💻 Coding Bootcamps</a>
-              <a href="/category/design-learning">🎨 Design Learning</a>
-              <a href="/category/data-science">📊 Data Science Courses</a>
+              <a href="/category/online-courses">📚 Online Courses</a>
+              <a href="/category/lms">🏫 LMS Software</a>
+              <a href="/category/video-platforms">📝 Video Platforms</a>
+              <a href="/category/assessment">📝 Quiz & Testing</a>
+              <a href="/category/certifications">🏆 Certifications</a>
+              <a href="/category/ai-learning">🤖 AI for Learning</a>
+              <a href="/category/course-creation">📚 Course Creation</a>
               <a href="/category/language-learning">🌍 Language Learning</a>
-              <a href="/category/business-learning">📈 Business & Marketing</a>
-              <a href="/category/cybersecurity-training">🔐 Cybersecurity Training</a>
-              <a href="/category/ai-learning">🤖 AI & Machine Learning</a>
-              <a href="/category/certifications">📝 Test Prep & Certifications</a>
-              <a href="/category/kids-learning">👶 Kids Learning Apps</a>
-              <a href="/category/personal-development">🧘 Personal Development</a>
-              <a href="/category/lms-tools">🛠️ Tools & LMS Platforms</a>
+              <a href="/category/coding-bootcamps">💻 Coding Bootcamps</a>
+              <a href="/category/virtual-classroom">🖥️ Virtual Classroom</a>
+              <a href="/category/webinars">📡 Webinar Platforms</a>
+              <a href="/category/flashcards">🃏 Flashcard Apps</a>
+              <a href="/category/skill-development">💡 Skill Development</a>
+              <a href="/category/tutoring">👨‍🏫 Online Tutoring</a>
+              <a href="/category/microlearning">⚡ Microlearning</a>
+              <a href="/category/corporate-training">🏢 Corporate Training</a>
+              <a href="/category/edtech-tools">🔬 EdTech Tools</a>
+              <a href="/category/learning-community">👥 Learning Communities</a>
+              <a href="/category/instructional-design">🎨 Instructional Design</a>
+              <a href="/category/audio-learning">🎧 Audio Learning</a>
               </div>
             </nav>
           </div>
