@@ -5,6 +5,7 @@ import NewsletterForm from '../components/NewsletterForm'
 export const metadata: Metadata = {
   title: "Best eLearning Platforms & Tools 2025 — Expert Reviews",
   description: "Find the best online learning platforms, LMS software and course creation tools. Compare features and pricing.",
+  alternates: { canonical: "https://www.elearning-tools.com" },
 };
 
 const STARS = (n: number) => "★".repeat(n) + "☆".repeat(5 - n);
