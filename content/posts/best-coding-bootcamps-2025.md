@@ -117,7 +117,7 @@ General Assembly is the original coding bootcamp and has expanded into data anal
 - Part-time options for working professionals
 - Diverse program catalog (not just coding)
 - Global presence with strong brand recognition
-- Corporate training partnerships
+- [Corporate training](/best-corporate-training-platforms-2025) partnerships
 - Strong alumni network
 
 **Limitations:**
